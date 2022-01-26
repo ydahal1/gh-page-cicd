@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgh_page_cicd=self.webpackChunkgh_page_cicd||[]).push([[678],{7704:function(e,t,n){n.r(t);var l=n(7294),i={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"};Object.assign({},{color:"#8954A8",fontWeight:"bold",fontSize:16,verticalAlign:"5%"},{listStyleType:"none",marginBottom:24});t.default=function(){return l.createElement("main",{style:i},l.createElement("title",null,"Home Page"),l.createElement("h1",null," CICD Testing"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-bfdec5e89ce570d8f2b0.js.map
